@@ -1,0 +1,10 @@
+.image1 {
+  margin: 15px;
+  height: 75px;
+  width: 75px;
+  opacity: 70%;
+}
+
+.fullDisplay {
+  opacity: 100%;
+}

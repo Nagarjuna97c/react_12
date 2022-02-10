@@ -1,0 +1,23 @@
+.main-container {
+  height: 100vh;
+  padding: 30px 0 0 45px;
+}
+
+.heading {
+  font-family: 'Roboto';
+  font-size: 34px;
+  color: #1e293b;
+}
+
+.para {
+  font-family: 'Roboto';
+  font-size: 25px;
+  color: #64748b;
+}
+
+.thumbnails-container {
+  list-style-type: none;
+  display: flex;
+  flex-direction: row;
+  padding: 0px;
+}
